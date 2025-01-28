@@ -1,5 +1,5 @@
 node_modules
 .env
-fs.js
-path.js
-arquivos
+modules/fs.js
+modules/path.js
+modules/arquivos
