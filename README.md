@@ -1,3 +1,3 @@
 # API-de-gerenciamento-de-usuarios
 
-API desenvolvida durante o curso de node do canal Felipe Rocha • Full Stack Club
+API para gerenciamente de usuario com rotas para listar, buscar, adicionar e remover usuários
