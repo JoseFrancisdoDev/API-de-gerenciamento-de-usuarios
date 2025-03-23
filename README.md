@@ -47,19 +47,19 @@ Endpoints
 
 1. Listar Usuários
 
-GET /usuarios
+GET /users
 
 Retorna a lista de usuários cadastrados.
 
 2. Buscar Usuário por ID
 
-GET /usuarios/:id
+GET /users/:id
 
 Retorna os detalhes de um usuário específico.
 
 3. Adicionar Usuário
 
-POST /usuarios
+POST /users
 
 Adiciona um novo usuário.
 
@@ -72,6 +72,6 @@ Corpo da requisição (JSON):
 
 4. Remover Usuário
 
-DELETE /usuarios/:id
+DELETE /users/:id
 
 Remove um usuário com base no ID.
